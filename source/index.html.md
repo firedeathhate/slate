@@ -2,9 +2,10 @@
 title: API Яндекс.Кассы
 
 language_tabs:
-  - shell
-  - php
+  - ruby
   - python
+  - shell
+  - javascript
 
 toc_footers:
   - <a href='https://kassa.yandex.ru/docs/client-sdks/#yandexcheckout-js'>КЛИЕНТСКИЕ БИБЛИОТЕКИ</a>
