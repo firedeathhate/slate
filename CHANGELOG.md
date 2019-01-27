@@ -69,7 +69,7 @@ Thanks to everyone who helped debug or wrote code for this version! It was a ser
 
 *February 23, 2017*
 
-- Add [multiple tabs per programming language](https://github.com/lord/slate/wiki/Multiple-language-tabs-per-programming-language) feature
+- Add [multiple tabs per programming language](https://github.com/firedeathhate/slate/wiki/Multiple-language-tabs-per-programming-language) feature
 - Upgrade Middleman to add Ruby 1.4.0 compatibility
 - Switch default code highlighting color scheme to better highlight JSON
 - Various small typo and bug fixes
