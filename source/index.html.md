@@ -1,14 +1,15 @@
 ---
-title: API Яндекс.Кассы
+title: API Reference 2222
 
-language_tabs:
+language_tabs: # must be one of https://git.io/vQNgJ
+  - shell
   - ruby
   - python
-  - shell
   - javascript
 
 toc_footers:
-  - <a href='https://kassa.yandex.ru/docs/client-sdks/#yandexcheckout-js'>КЛИЕНТСКИЕ БИБЛИОТЕКИ</a>
+  - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
 includes:
   - errors
@@ -16,7 +17,7 @@ includes:
 search: true
 ---
 
-# Использование API
+# Introduction
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
@@ -24,7 +25,7 @@ We have language bindings in Shell, Ruby, Python, and JavaScript! You can view c
 
 This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
-# Платежи
+# Authentication
 
 > To authorize, use this code:
 
@@ -64,7 +65,7 @@ Kittn expects for the API key to be included in all API requests to the server i
 You must replace <code>meowmeowmeow</code> with your personal API key.
 </aside>
 
-# Возвраты
+# Kittens
 
 ## Get All Kittens
 
